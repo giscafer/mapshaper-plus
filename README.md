@@ -9,7 +9,7 @@ http://giscafer.com/mapshaper-plus/
 ## Useage
 
 [mapshaper](https://github.com/mbloch/mapshaper)可以将多种数据格式（Shapefile, GeoJSON, TopoJSON
-和 Zip files）的导入，对地图的编辑和导出（Shapefile, GeoJSON, TopoJSON, DSV, SVG）；
+和 Zip files）的导入，对地图的编辑和导出（Shapefile, GeoJSON, TopoJSON, DSV, SVG），功能强大和简单易用。
 
 本程序是在其基础上拓展了地图坐标信息的压缩编码，很大程度上节省文件代码空间和大小；譬如一个贵州省的数据，原始的`geojson`数据会在`30M`左右，在对坐标信息压缩编码后，就变仅有`1.4M`。
 

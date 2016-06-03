@@ -1,6 +1,10 @@
 # mapshaper-plus
-基于[mapshaper](https://github.com/mbloch/mapshaper)进行对坐标信息压缩编码，并提供可直接生成压缩编码后的echarts map数据格式
+基于[mapshaper](https://github.com/mbloch/mapshaper)对geojson地图数据的坐标信息进行压缩编码，并提供可直接生成压缩编码后的echarts map数据格式
 
+
+## Demo
+
+	http://giscafer.com/mapshaper-plus/
 
 ## Useage
 

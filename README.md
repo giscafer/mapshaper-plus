@@ -1,0 +1,2 @@
+# mapshaper-plus
+基于mapshaper进行对坐标信息压缩编码，并提供可直接生成压缩编码后的echarts map数据格式

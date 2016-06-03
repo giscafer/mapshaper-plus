@@ -4,7 +4,7 @@
 
 ## Demo
 
-	http://giscafer.com/mapshaper-plus/
+http://giscafer.com/mapshaper-plus/
 
 ## Useage
 

@@ -8,12 +8,14 @@ http://giscafer.com/mapshaper-plus/
 
 ## Description
 
-[mapshaper](https://github.com/mbloch/mapshaper)可以将多种数据格式（Shapefile, GeoJSON, TopoJSON
-和 Zip files）的导入，对地图的编辑和导出（Shapefile, GeoJSON, TopoJSON, DSV, SVG），功能强大和简单易用。
+**介绍** ——[mapshaper](https://github.com/mbloch/mapshaper)可以将多种数据格式（Shapefile, GeoJSON, TopoJSON
+和 Zip files）导入后，对地图的编辑和导出（Shapefile, GeoJSON, TopoJSON, DSV, SVG），功能强大和简单易用。
 
-本程序是在其基础上拓展了地图坐标信息的压缩编码，很大程度上节省文件代码空间和大小；譬如一个贵州省的数据，原始的`geojson`数据会在`30M`左右，在对坐标信息压缩编码后，就变仅有`1.4M`。
+`mapshaper-plus`是在`mapshaper`基础上拓展对地图坐标信息的压缩编码，很大程度上减小了文件的代码行数和字节大小：譬如一个贵州省的数据，原始的`geojson`数据会在`30M`左右，但在对坐标信息压缩编码后，仅为`1.4M`。
 
-本demo是在做echarts图表时，官方没有提供一个平台可以直接将`shp文件`转化为压缩后的`json`或`js`格式的地图文件，个人需要更新地图数据使用而开发。
+**背景** ——在做echarts图表统计时，需要自制地图数据，但官方没有提供一个平台可以直接将`shp文件`转化为压缩后的`json`或`js`格式的地图文件，而`mapshaper`导出的json数据没有压缩，数据量过大。
+
+体验可以访问[mapshaper-plus在线demo](http://giscafer.com/mapshaper-plus/)
 
 ## Screenshot
 
@@ -21,7 +23,7 @@ http://giscafer.com/mapshaper-plus/
 
 ## License
 
-mapshaper is licensed under MPL 2.0.
+mapshaper is licensed under MPL 2.0. and mapshaper-plus is licensed under MIT.
 
 
 

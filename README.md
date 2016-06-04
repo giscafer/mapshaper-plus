@@ -6,7 +6,7 @@
 
 http://giscafer.com/mapshaper-plus/
 
-## Useage
+## Description
 
 [mapshaper](https://github.com/mbloch/mapshaper)可以将多种数据格式（Shapefile, GeoJSON, TopoJSON
 和 Zip files）的导入，对地图的编辑和导出（Shapefile, GeoJSON, TopoJSON, DSV, SVG），功能强大和简单易用。

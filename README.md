@@ -1,4 +1,7 @@
 # mapshaper-plus
+
+Generate geojson files for Echarts Map,base on mapshaper
+
 基于[mapshaper](https://github.com/mbloch/mapshaper)对geojson地图数据的坐标信息进行压缩编码，并提供可直接生成压缩编码后的echarts map数据格式
 
 通过`mapshaper-plus`可以直接将`shp`格式数据转换为压缩后的echarts数据

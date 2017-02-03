@@ -19,7 +19,7 @@ http://giscafer.com/mapshaper-plus/
 
 **背景** ——在做echarts图表统计时，需要自制地图数据，但官方没有提供一个平台可以直接将`shp文件`转化为压缩后的`json`或`js`格式的地图文件，而`mapshaper`导出的json数据没有压缩，数据量过大。
 
-体验可以访问[mapshaper-plus在线demo](http://giscafer.com/mapshaper-plus/)
+使用可以访问[mapshaper-plus在线demo](http://giscafer.com/mapshaper-plus/)
 
 ## Screenshot
 
@@ -29,5 +29,7 @@ http://giscafer.com/mapshaper-plus/
 
 mapshaper is licensed under MPL 2.0. and mapshaper-plus is licensed under MIT.
 
-
+> Blog [giscafer.com](http://giscafer.com) &nbsp;&middot;&nbsp;
+> GitHub [@giscafer](https://github.com/giscafer) &nbsp;&middot;&nbsp;
+> Weibo [@Nickbing Lao](https://weibo.com/laohoubin)
 

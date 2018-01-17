@@ -8,7 +8,7 @@ Generate geojson files for Echarts Map,base on mapshaper
 
 ## Demo
 
-http://giscafer.com/mapshaper-plus/
+http://giscafer.github.io/mapshaper-plus/
 
 ## Description
 
